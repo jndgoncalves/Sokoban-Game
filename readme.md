@@ -17,7 +17,15 @@ This project is a continuation of our previous efforts to recreate classic games
    ```bash
    git clone https://github.com/jndgoncalves/sokoban.git
    ```
-2. Navigate to the project directory and open `index.html` in your preferred browser.
+2. Navigate to the project directory:
+    ```bash
+    cd rogue
+    ```
+3. Compile and run the game using your preferred Java IDE or the command line.
+
+## Usage
+
+Once installed, you can start the game and navigate through the levels using the arrow keys.
 
 ## Contribution
 
